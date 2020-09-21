@@ -44,7 +44,8 @@ export default {
   name: 'App',
   data(){
     return{
-      dados: {}
+      dados: {},
+      turma: ''
     }
   },
   created(){
